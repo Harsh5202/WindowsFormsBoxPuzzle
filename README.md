@@ -8,3 +8,6 @@ Installation Instructions:
 Prerequisites:
 .NET Framework: Ensure you have the .NET Framework installed, version 4.7.2 or higher, as this is essential for running Windows Forms applications.
 Visual Studio: The project is developed in Visual Studio, so having Visual Studio 2017 or newer installed is required for compiling and running the application. Ensure you include the .NET desktop development workload during installation.
+
+## License
+This project is licensed under the Apache License 2.0. I chose this license because it provides an explicit grant of patent rights from contributors to users and protects both parties by allowing the shared use of free software while protecting against patent litigation.
