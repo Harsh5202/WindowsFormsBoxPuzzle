@@ -11,3 +11,5 @@ Visual Studio: The project is developed in Visual Studio, so having Visual Studi
 
 ## License
 This project is licensed under the Apache License 2.0. I chose this license because it provides an explicit grant of patent rights from contributors to users and protects both parties by allowing the shared use of free software while protecting against patent litigation.
+
+https://github.com/Harsh5202/WindowsFormsBoxPuzzle/wiki/Why-I-Chose-Git-for-Version-Control
